@@ -1,0 +1,28 @@
+{
+    "Criteria":[
+        {
+            "name": "Degree of disability superior to 60%?",
+            "weight": 0.30,
+            "isBenefit": "True"
+        },
+        {
+            "name": "University Entrance Average Grade or Average Grade considering ETCS completed",
+            "weight": 0.10,
+            "isBenefit": "True"
+        },
+        {
+            "name": "Value of movatous assets",
+            "weight": 0.15,
+            "isBenefit": "False"
+        },
+        {
+            "name": "Per capita household income",
+            "weight": 0.15,
+            "isBenefit": "False"
+        },
+        {
+            "name": "Obtained this scholarship in previous year?",
+            "weight": 0.30,
+            "isBenefit": "True"
+        }]
+}

@@ -1,0 +1,54 @@
+{
+  "Results": [
+    {
+      "id": "A1",
+      "C1": 0.01,
+      "C2": 1.0,
+      "C3": 0.33,
+      "C4": 0.25,
+      "C5": 1.0,
+      "result_value": 0.421,
+      "eligibility": true
+    },
+    {
+      "id": "A2",
+      "C1": 0.01,
+      "C2": 1.0,
+      "C3": 0.33,
+      "C4": 0.01,
+      "C5": 1.0,
+      "result_value": 0.35,
+      "eligibility": true
+    },
+    {
+      "id": "A3",
+      "C1": 0.01,
+      "C2": 0.25,
+      "C3": 0.66,
+      "C4": 0.75,
+      "C5": 1.0,
+      "result_value": 0.439,
+      "eligibility": true
+    },
+    {
+      "id": "A4",
+      "C1": 0.01,
+      "C2": 0.75,
+      "C3": 1.0,
+      "C4": 1.0,
+      "C5": 0.01,
+      "result_value": 0.412,
+      "eligibility": true
+    },
+    {
+      "id": "A5",
+      "C1": 1.0,
+      "C2": 0.5,
+      "C3": 1.0,
+      "C4": 0.01,
+      "C5": 0.01,
+      "result_value": 0.376,
+      "eligibility": true
+    }
+  ]
+}

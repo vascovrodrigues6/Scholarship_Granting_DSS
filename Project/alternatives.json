@@ -1,0 +1,43 @@
+{
+    "Alternatives":[
+        {
+            "id": "A1",
+            "c1_answer": "no",
+            "c2_answer": 17.5,
+            "c3_answer": 50000,
+            "c4_answer": 30000,
+            "c5_answer": "yes"   
+        },
+        {
+            "id": "A2",
+            "c1_answer": "no",
+            "c2_answer": 18.7,
+            "c3_answer": 70000,
+            "c4_answer": 80000,
+            "c5_answer": "yes"   
+        },
+        {
+            "id": "A3",
+            "c1_answer": "no",
+            "c2_answer": 11.2,
+            "c3_answer": 20000,
+            "c4_answer": 8000,
+            "c5_answer": "yes"   
+        },
+        {
+            "id": "A4",
+            "c1_answer": "no",
+            "c2_answer": 16.4,
+            "c3_answer": 3000,
+            "c4_answer": 4000,
+            "c5_answer": "no"   
+        },
+        {
+            "id": "A5",
+            "c1_answer": "yes",
+            "c2_answer": 13.5,
+            "c3_answer": 3000,
+            "c4_answer": 90000,
+            "c5_answer": "no"   
+        }]
+}
